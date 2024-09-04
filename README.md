@@ -14,7 +14,7 @@
 - [Prototipo](https://www.figma.com/proto/zbbe0pTWffGuHTzmPkv2yQ/HealthTrack?node-id=7-38&t=xrtzEAWwo6qF25I4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A38)
 ## Produto
 
-HealthTrack é uma plataforma que ajuda usuários a monitorar e melhorar sua saúde, oferecendo ferramentas para registrar indicadores de saúde, acessar recursos de bem-estar, e conectar-se com profissionais de saúde. A aplicação foca em prevenção e gestão da saúde, com funcionalidades como telemedicina, desafios de saúde, e relatórios personalizados, alem de formas interativas das pessoas terem um estilo de vida mais saudavel./br>
+HealthTrack é uma plataforma que ajuda usuários a monitorar e melhorar sua saúde, oferecendo ferramentas para registrar indicadores de saúde, acessar recursos de bem-estar, e conectar-se com profissionais de saúde. A aplicação foca em prevenção e gestão da saúde, com funcionalidades como telemedicina, desafios de saúde, e relatórios personalizados, alem de formas interativas das pessoas terem um estilo de vida mais saudavel.</br>
 
 ### ODS
 ![image](https://github.com/user-attachments/assets/8ff68976-dfae-46b2-88c2-5abd232013ad)
