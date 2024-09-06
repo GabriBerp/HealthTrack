@@ -33,9 +33,56 @@ HealthTrack é uma plataforma que ajuda usuários a monitorar e melhorar sua sa�
   **Backlog - Print**</br>
   *Historias*</br>
   ![image](https://github.com/user-attachments/assets/aa149f5e-8439-47b7-9b61-561a179d440f)</br>
+  <details>
+    <summary>Criterios de Aceitação</summary>
+
+  **Historia 1 -** 
+    - Usuario pode criar uma conta usando seu email e uma senha.
+    - A conta deve ficar salva nos dados do aplicativo, para quando a pessoa quiser, ela pode entrar novamente
+  **Historia 2 -**
+    - Usuario pode entrar na sua conta, caso tenha, usando seu email e sua senha.
+    - A conta deve ficar salva nos dados do aplicativo, para quando a pessoa quiser, entrar mais facilmente
+  **Historia 3 -**
+    - Usuario pode compartilhar sua conta em diferentes redes sociais.
+  **Historia 4 -**
+    - Usuario deve receber semanalmente desafios para cumprir, que façam ela se exercitar.
+    - Usuario deve ganhar recompensas ao cumprir os desafios, como avatares, molduras, decorações de perfil no geral.
+  **Historia 5 -**
+    - Usuario deve receber uma quantia X de pontos, quando realiza desafios e missões dentro do aplicativo.
+    - A quantidade de pontos deve ser salva automaticamente.
+  **Historia 6 -**
+    - Usuario deve receber trofeus e conquistas, ao completar certas tarefas dentro do aplicativo.
+    - Os trofeus e as conquistas que o usuario possuir devem ser salvas automaticamente.
+  **Historia 7 -**
+    - Usuario pode os pontos de outros jogadores.
+    - Usuario pode ver sua posição no rank local.
+    - Usuario pode ver sua posição no rank nacional.
+  **Historia 8 -**
+    - Usuario pode participar de um campeonato ou torneio.
+    - Usuario deve receber recompensas se ganhar o campeonato ou torneio.
+    - Usuario pode organizar torneios ou campeonatos locais.
+  **Historia 9 -**
+    - Usuario pode conectar um dispositivo wearable proximo utilizando o bluetooth.
+  **Historia 10 -**
+    - Usuario pode ver uma lista de dispositivos conectados.
+    - Usuario pode ver o historico de dispositivos conectados.
+  **Historia 11 -**
+    - Usuario pode remover um dispositivo conectado.
+  **Historia 12 -**
+    - Usuario pode optar por receber notificações e alertas sobre sua saude.
+    - Usuario pode receber alertas baseados no seu estado de saude atual, apartir de dados obtidos do seu dispositivo wearable.
+    - Usuario pode receber notificações para completar missões ou desafios, ou quando surgir campeonatos ou torneios proximos.
+  **Historia 13 -**
+    - Usuario pode consultar relatorios gerados diariamente pelo aplicativo com dados sobre sua saude.
+  **Historia 14 -**
+    - Usuario pode criar relatorios personalizados a qualquer momento.
+    - Usuario pode escolher quais dados especificos quer no relatorio.
+  **Historia 15 -**
+    - Usuario pode compartilhar seus relatorios, tanto os diarios como os personalizados.
+  </details>
+  
   *Epicos*</br>
   ![image](https://github.com/user-attachments/assets/9d022245-cbdd-4252-b325-e3bf6cfbb13c)</br>
-
 </details>
 
 <details>
