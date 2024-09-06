@@ -28,6 +28,17 @@ HealthTrack é uma plataforma que ajuda usuários a monitorar e melhorar sua sa�
 
 ### Informações Uteis
 <details>
+  <summary>Jira</summary>
+  
+  **Backlog - Print**
+  ![image](https://github.com/user-attachments/assets/aa149f5e-8439-47b7-9b61-561a179d440f)
+  *Historias*
+  ![image](https://github.com/user-attachments/assets/9d022245-cbdd-4252-b325-e3bf6cfbb13c)
+  *Epicos*
+
+</details>
+
+<details>
 <summary>Funcionalidades</summary>
 
 - Integração com dispositivos wearable (como smartwatches) para coleta automática de dados de saúde.
