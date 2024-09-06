@@ -83,6 +83,12 @@ HealthTrack é uma plataforma que ajuda usuários a monitorar e melhorar sua sa�
   
   *Epicos*</br>
   ![image](https://github.com/user-attachments/assets/9d022245-cbdd-4252-b325-e3bf6cfbb13c)</br>
+
+  **Quadro Branco - Prints**</br>
+  ![image](https://github.com/user-attachments/assets/655f5767-9c8c-4486-ad21-8566f4df965a)
+  ![image](https://github.com/user-attachments/assets/059cc07f-f75b-4027-b90e-3f01b0d7635a)
+
+
 </details>
 
 <details>
