@@ -28,6 +28,7 @@ HealthTrack é uma plataforma que ajuda usuários a monitorar e melhorar sua sa�
 
 ### Informações Uteis
 <details>
+  
   <summary>Jira</summary>
   
   **Backlog - Print**</br>
